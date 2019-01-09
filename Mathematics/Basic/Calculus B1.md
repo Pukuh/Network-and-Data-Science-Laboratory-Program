@@ -1,5 +1,5 @@
 # Calculus B1
-Basic knowledge of calculus.
+Basic knowledge of differential calculus.
 
 ## Topics
 1. Functions and Limits 
@@ -9,3 +9,6 @@ Basic knowledge of calculus.
 ## Bibliography
 1. Ron Larson, Bruce Edwards, **Calculus**, 7ed Brooks/Cole, 2018.  Chapters P, 1, 2, 3.
 2. James Stewart. **Calculus**, 7ed Brooks/Cole, 2012. Chapters 1, 2, and 3.
+
+## Evaluation
+Written test.
