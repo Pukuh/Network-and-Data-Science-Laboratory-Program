@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="22 82 1035 962" width="1035" height="962">
+  <defs>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="39" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-01-12 01:32:33 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_2" stroke-dasharray="none" fill-opacity="1" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 2</title>
+    <g id="Canvas_2: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_57">
+        <path d="M 180.91338 948.8792 L 304.27165 948.8792 C 308.68993 948.8792 312.27165 952.4609 312.27165 956.8792 L 312.27165 984.126 C 312.27165 988.5443 308.68993 992.126 304.27165 992.126 L 180.91338 992.126 C 176.4951 992.126 172.91338 988.5443 172.91338 984.126 L 172.91338 956.8792 C 172.91338 952.4609 176.4951 948.8792 180.91338 948.8792 Z" fill="#ffaa41"/>
+        <path d="M 180.91338 948.8792 L 304.27165 948.8792 C 308.68993 948.8792 312.27165 952.4609 312.27165 956.8792 L 312.27165 984.126 C 312.27165 988.5443 308.68993 992.126 304.27165 992.126 L 180.91338 992.126 C 176.4951 992.126 172.91338 988.5443 172.91338 984.126 L 172.91338 956.8792 C 172.91338 952.4609 176.4951 948.8792 180.91338 948.8792 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(177.91338 949.5026)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="27.331477" y="11">Algorithms B1</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="1.3099928" y="25">(Greedy and Divide and </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="39.66546" y="39">Conquer)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_56">
+        <path d="M 180.91338 901.4173 L 304.27165 901.4173 C 308.68993 901.4173 312.27165 904.999 312.27165 909.4173 L 312.27165 936.6641 C 312.27165 941.0824 308.68993 944.6641 304.27165 944.6641 L 180.91338 944.6641 C 176.4951 944.6641 172.91338 941.0824 172.91338 936.6641 L 172.91338 909.4173 C 172.91338 904.999 176.4951 901.4173 180.91338 901.4173 Z" fill="#ffaa41"/>
+        <path d="M 180.91338 901.4173 L 304.27165 901.4173 C 308.68993 901.4173 312.27165 904.999 312.27165 909.4173 L 312.27165 936.6641 C 312.27165 941.0824 308.68993 944.6641 304.27165 944.6641 L 180.91338 944.6641 C 176.4951 944.6641 172.91338 941.0824 172.91338 936.6641 L 172.91338 909.4173 C 172.91338 904.999 176.4951 901.4173 180.91338 901.4173 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(177.91338 909.0407)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="27.331477" y="11">Algorithms B2</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="23.440852" y="25">(DP and Flows)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_55">
+        <path d="M 481.3858 951.7138 L 604.7441 951.7138 C 609.1624 951.7138 612.7441 955.2956 612.7441 959.7138 L 612.7441 986.9606 C 612.7441 991.3789 609.1624 994.9606 604.7441 994.9606 L 481.3858 994.9606 C 476.96755 994.9606 473.3858 991.3789 473.3858 986.9606 L 473.3858 959.7138 C 473.3858 955.2956 476.96755 951.7138 481.3858 951.7138 Z" fill="#ffaa41"/>
+        <path d="M 481.3858 951.7138 L 604.7441 951.7138 C 609.1624 951.7138 612.7441 955.2956 612.7441 959.7138 L 612.7441 986.9606 C 612.7441 991.3789 609.1624 994.9606 604.7441 994.9606 L 481.3858 994.9606 C 476.96755 994.9606 473.3858 991.3789 473.3858 986.9606 L 473.3858 959.7138 C 473.3858 955.2956 476.96755 951.7138 481.3858 951.7138 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(478.3858 952.3372)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="3.6478835" y="11">Theory of Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="16.315852" y="25">B1 (Automata and </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="32.985774" y="39">Languages)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_54">
+        <path d="M 481.3858 904.252 L 604.7441 904.252 C 609.1624 904.252 612.7441 907.8337 612.7441 912.252 L 612.7441 939.4988 C 612.7441 943.917 609.1624 947.4988 604.7441 947.4988 L 481.3858 947.4988 C 476.96755 947.4988 473.3858 943.917 473.3858 939.4988 L 473.3858 912.252 C 473.3858 907.8337 476.96755 904.252 481.3858 904.252 Z" fill="#ffaa41"/>
+        <path d="M 481.3858 904.252 L 604.7441 904.252 C 609.1624 904.252 612.7441 907.8337 612.7441 912.252 L 612.7441 939.4988 C 612.7441 943.917 609.1624 947.4988 604.7441 947.4988 L 481.3858 947.4988 C 476.96755 947.4988 473.3858 943.917 473.3858 939.4988 L 473.3858 912.252 C 473.3858 907.8337 476.96755 904.252 481.3858 904.252 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(478.3858 904.8754)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="3.6478835" y="11">Theory of Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="9.542415" y="25">B2 (Turing Machines </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="14.65472" y="39">and Computability)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <path d="M 333.98425 999.9028 L 457.3425 999.9028 C 461.7608 999.9028 465.3425 1003.4845 465.3425 1007.9028 L 465.3425 1035.1496 C 465.3425 1039.5679 461.7608 1043.1496 457.3425 1043.1496 L 333.98425 1043.1496 C 329.56597 1043.1496 325.98425 1039.5679 325.98425 1035.1496 L 325.98425 1007.9028 C 325.98425 1003.4845 329.56597 999.9028 333.98425 999.9028 Z" fill="#ffaa41"/>
+        <path d="M 333.98425 999.9028 L 457.3425 999.9028 C 461.7608 999.9028 465.3425 1003.4845 465.3425 1007.9028 L 465.3425 1035.1496 C 465.3425 1039.5679 461.7608 1043.1496 457.3425 1043.1496 L 333.98425 1043.1496 C 329.56597 1043.1496 325.98425 1039.5679 325.98425 1035.1496 L 325.98425 1007.9028 C 325.98425 1003.4845 329.56597 999.9028 333.98425 999.9028 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(330.98425 1007.5262)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="13.98968" y="11">Data Structures B1</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="33.67132" y="25">(Recursion)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_52">
+        <path d="M 333.98425 952.4409 L 457.3425 952.4409 C 461.7608 952.4409 465.3425 956.0227 465.3425 960.4409 L 465.3425 987.6877 C 465.3425 992.106 461.7608 995.6877 457.3425 995.6877 L 333.98425 995.6877 C 329.56597 995.6877 325.98425 992.106 325.98425 987.6877 L 325.98425 960.4409 C 325.98425 956.0227 329.56597 952.4409 333.98425 952.4409 Z" fill="#ffaa41"/>
+        <path d="M 333.98425 952.4409 L 457.3425 952.4409 C 461.7608 952.4409 465.3425 956.0227 465.3425 960.4409 L 465.3425 987.6877 C 465.3425 992.106 461.7608 995.6877 457.3425 995.6877 L 333.98425 995.6877 C 329.56597 995.6877 325.98425 992.106 325.98425 987.6877 L 325.98425 960.4409 C 325.98425 956.0227 329.56597 952.4409 333.98425 952.4409 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(330.98425 960.0643)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="13.98968" y="11">Data Structures B2</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="2.6605788" y="25">(Basic Data Structures)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_51">
+        <path d="M 631.62204 951.7138 L 754.9803 951.7138 C 759.3986 951.7138 762.9803 955.2956 762.9803 959.7138 L 762.9803 986.9606 C 762.9803 991.3789 759.3986 994.9606 754.9803 994.9606 L 631.62204 994.9606 C 627.2038 994.9606 623.62204 991.3789 623.62204 986.9606 L 623.62204 959.7138 C 623.62204 955.2956 627.2038 951.7138 631.62204 951.7138 Z" fill="#ffaa41"/>
+        <path d="M 631.62204 951.7138 L 754.9803 951.7138 C 759.3986 951.7138 762.9803 955.2956 762.9803 959.7138 L 762.9803 986.9606 C 762.9803 991.3789 759.3986 994.9606 754.9803 994.9606 L 631.62204 994.9606 C 627.2038 994.9606 623.62204 991.3789 623.62204 986.9606 L 623.62204 959.7138 C 623.62204 955.2956 627.2038 951.7138 631.62204 951.7138 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(628.62204 952.3372)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="1.655696" y="11">Theory of Programming </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="7.972102" y="25">Languages B1 (Prog. </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="29.666438" y="39">Abstractions)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_50">
+        <path d="M 631.62204 904.252 L 754.9803 904.252 C 759.3986 904.252 762.9803 907.8337 762.9803 912.252 L 762.9803 939.4988 C 762.9803 943.917 759.3986 947.4988 754.9803 947.4988 L 631.62204 947.4988 C 627.2038 947.4988 623.62204 943.917 623.62204 939.4988 L 623.62204 912.252 C 623.62204 907.8337 627.2038 904.252 631.62204 904.252 Z" fill="#ffaa41"/>
+        <path d="M 631.62204 904.252 L 754.9803 904.252 C 759.3986 904.252 762.9803 907.8337 762.9803 912.252 L 762.9803 939.4988 C 762.9803 943.917 759.3986 947.4988 754.9803 947.4988 L 631.62204 947.4988 C 627.2038 947.4988 623.62204 943.917 623.62204 939.4988 L 623.62204 912.252 C 623.62204 907.8337 627.2038 904.252 631.62204 904.252 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(628.62204 904.8754)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="1.655696" y="11">Theory of Programming </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="25.977962" y="25">Languages B2 </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="15.665462" y="39">(Modules-Objects)</tspan>
+        </text>
+      </g>
+      <g id="Line_49">
+        <line x1="221.10236" y1="773.3583" x2="850.3937" y2="773.3583" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_48">
+        <path d="M 629.248 705.0997 L 752.6063 705.0997 C 757.0246 705.0997 760.6063 708.6814 760.6063 713.0997 L 760.6063 740.34645 C 760.6063 744.7647 757.0246 748.34645 752.6063 748.34645 L 629.248 748.34645 C 624.82975 748.34645 621.248 744.7647 621.248 740.34645 L 621.248 713.0997 C 621.248 708.6814 624.82975 705.0997 629.248 705.0997 Z" fill="#ff7c00"/>
+        <path d="M 629.248 705.0997 L 752.6063 705.0997 C 757.0246 705.0997 760.6063 708.6814 760.6063 713.0997 L 760.6063 740.34645 C 760.6063 744.7647 757.0246 748.34645 752.6063 748.34645 L 629.248 748.34645 C 624.82975 748.34645 621.248 744.7647 621.248 740.34645 L 621.248 713.0997 C 621.248 708.6814 624.82975 705.0997 629.248 705.0997 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(626.248 712.7231)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="6.3197585" y="11">Distributed Algorithms </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="57.340266" y="25">B1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_47">
+        <path d="M 629.248 657.6378 L 752.6063 657.6378 C 757.0246 657.6378 760.6063 661.2195 760.6063 665.6378 L 760.6063 692.8846 C 760.6063 697.30286 757.0246 700.8846 752.6063 700.8846 L 629.248 700.8846 C 624.82975 700.8846 621.248 697.30286 621.248 692.8846 L 621.248 665.6378 C 621.248 661.2195 624.82975 657.6378 629.248 657.6378 Z" fill="#ff7c00"/>
+        <path d="M 629.248 657.6378 L 752.6063 657.6378 C 757.0246 657.6378 760.6063 661.2195 760.6063 665.6378 L 760.6063 692.8846 C 760.6063 697.30286 757.0246 700.8846 752.6063 700.8846 L 629.248 700.8846 C 624.82975 700.8846 621.248 697.30286 621.248 692.8846 L 621.248 665.6378 C 621.248 661.2195 624.82975 657.6378 629.248 657.6378 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(626.248 665.2612)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="6.3197585" y="11">Distributed Algorithms </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="57.340266" y="25">B2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_46">
+        <path d="M 178.07874 220.37526 L 301.437 220.37526 C 305.8553 220.37526 309.437 223.95698 309.437 228.37526 L 309.437 255.62205 C 309.437 260.04032 305.8553 263.62205 301.437 263.62205 L 178.07874 263.62205 C 173.66046 263.62205 170.07874 260.04032 170.07874 255.62205 L 170.07874 228.37526 C 170.07874 223.95698 173.66046 220.37526 178.07874 220.37526 Z" fill="#d84800"/>
+        <path d="M 178.07874 220.37526 L 301.437 220.37526 C 305.8553 220.37526 309.437 223.95698 309.437 228.37526 L 309.437 255.62205 C 309.437 260.04032 305.8553 263.62205 301.437 263.62205 L 178.07874 263.62205 C 173.66046 263.62205 170.07874 260.04032 170.07874 255.62205 L 170.07874 228.37526 C 170.07874 223.95698 173.66046 220.37526 178.07874 220.37526 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(175.07874 227.99865)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="5.660579" y="11">Markov Chains Mixing </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="43.561946" y="25">Times 6</tspan>
+        </text>
+      </g>
+      <g id="Graphic_45">
+        <path d="M 479.0118 705.0997 L 602.3701 705.0997 C 606.78835 705.0997 610.3701 708.6814 610.3701 713.0997 L 610.3701 740.34645 C 610.3701 744.7647 606.78835 748.34645 602.3701 748.34645 L 479.0118 748.34645 C 474.59353 748.34645 471.0118 744.7647 471.0118 740.34645 L 471.0118 713.0997 C 471.0118 708.6814 474.59353 705.0997 479.0118 705.0997 Z" fill="#ff7c00"/>
+        <path d="M 479.0118 705.0997 L 602.3701 705.0997 C 606.78835 705.0997 610.3701 708.6814 610.3701 713.0997 L 610.3701 740.34645 C 610.3701 744.7647 606.78835 748.34645 602.3701 748.34645 L 479.0118 748.34645 C 474.59353 748.34645 471.0118 744.7647 471.0118 740.34645 L 471.0118 713.0997 C 471.0118 708.6814 474.59353 705.0997 479.0118 705.0997 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(476.0118 705.7231)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.659602" y="11">Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.000423" y="25">Complexity 1</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="13.3305" y="39">(NP-completeness)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_44">
+        <path d="M 479.47244 657.6378 L 602.8307 657.6378 C 607.249 657.6378 610.8307 661.2195 610.8307 665.6378 L 610.8307 692.8846 C 610.8307 697.30286 607.249 700.8846 602.8307 700.8846 L 479.47244 700.8846 C 475.05416 700.8846 471.47244 697.30286 471.47244 692.8846 L 471.47244 665.6378 C 471.47244 661.2195 475.05416 657.6378 479.47244 657.6378 Z" fill="#ff7c00"/>
+        <path d="M 479.47244 657.6378 L 602.8307 657.6378 C 607.249 657.6378 610.8307 661.2195 610.8307 665.6378 L 610.8307 692.8846 C 610.8307 697.30286 607.249 700.8846 602.8307 700.8846 L 479.47244 700.8846 C 475.05416 700.8846 471.47244 697.30286 471.47244 692.8846 L 471.47244 665.6378 C 471.47244 661.2195 475.05416 657.6378 479.47244 657.6378 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(476.47244 658.2612)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.659602" y="11">Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.000423" y="25">Complexity 2</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="12.328548" y="39">(Space Complexity)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_43">
+        <path d="M 331.61023 705.0997 L 454.9685 705.0997 C 459.3868 705.0997 462.9685 708.6814 462.9685 713.0997 L 462.9685 740.34645 C 462.9685 744.7647 459.3868 748.34645 454.9685 748.34645 L 331.61023 748.34645 C 327.19196 748.34645 323.61023 744.7647 323.61023 740.34645 L 323.61023 713.0997 C 323.61023 708.6814 327.19196 705.0997 331.61023 705.0997 Z" fill="#ff7c00"/>
+        <path d="M 331.61023 705.0997 L 454.9685 705.0997 C 459.3868 705.0997 462.9685 708.6814 462.9685 713.0997 L 462.9685 740.34645 C 462.9685 744.7647 459.3868 748.34645 454.9685 748.34645 L 331.61023 748.34645 C 327.19196 748.34645 323.61023 744.7647 323.61023 740.34645 L 323.61023 713.0997 C 323.61023 708.6814 327.19196 705.0997 331.61023 705.0997 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(328.61023 705.7231)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="26.326594" y="11">Approximation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="31.33343" y="25">Algorithms 1 </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="11.326594" y="39">(Greedy Algorithms)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_42">
+        <path d="M 332.07086 657.6378 L 455.42913 657.6378 C 459.8474 657.6378 463.42913 661.2195 463.42913 665.6378 L 463.42913 692.8846 C 463.42913 697.30286 459.8474 700.8846 455.42913 700.8846 L 332.07086 700.8846 C 327.6526 700.8846 324.07086 697.30286 324.07086 692.8846 L 324.07086 665.6378 C 324.07086 661.2195 327.6526 657.6378 332.07086 657.6378 Z" fill="#ff7c00"/>
+        <path d="M 332.07086 657.6378 L 455.42913 657.6378 C 459.8474 657.6378 463.42913 661.2195 463.42913 665.6378 L 463.42913 692.8846 C 463.42913 697.30286 459.8474 700.8846 455.42913 700.8846 L 332.07086 700.8846 C 327.6526 700.8846 324.07086 697.30286 324.07086 692.8846 L 324.07086 665.6378 C 324.07086 661.2195 327.6526 657.6378 332.07086 657.6378 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(329.07086 658.2612)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="26.326594" y="11">Approximation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="1.9808913" y="25">Algorithms 2 (Rounding </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="6.650813" y="39">and Linear Programs)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <path d="M 181.37401 705.0997 L 304.73228 705.0997 C 309.15056 705.0997 312.7323 708.6814 312.7323 713.0997 L 312.7323 740.34645 C 312.7323 744.7647 309.15056 748.34645 304.73228 748.34645 L 181.37401 748.34645 C 176.95574 748.34645 173.37401 744.7647 173.37401 740.34645 L 173.37401 713.0997 C 173.37401 708.6814 176.95574 705.0997 181.37401 705.0997 Z" fill="#ff7c00"/>
+        <path d="M 181.37401 705.0997 L 304.73228 705.0997 C 309.15056 705.0997 312.7323 708.6814 312.7323 713.0997 L 312.7323 740.34645 C 312.7323 744.7647 309.15056 748.34645 304.73228 748.34645 L 181.37401 748.34645 C 176.95574 748.34645 173.37401 744.7647 173.37401 740.34645 L 173.37401 713.0997 C 173.37401 708.6814 176.95574 705.0997 181.37401 705.0997 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(178.37401 705.7231)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="7.315852" y="11">Random Algorithms 1 </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="21.647883" y="25">Expectation and </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="34.667415" y="39">Deviations)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_40">
+        <path d="M 181.83464 657.6378 L 305.1929 657.6378 C 309.6112 657.6378 313.1929 661.2195 313.1929 665.6378 L 313.1929 692.8846 C 313.1929 697.30286 309.6112 700.8846 305.1929 700.8846 L 181.83464 700.8846 C 177.41637 700.8846 173.83464 697.30286 173.83464 692.8846 L 173.83464 665.6378 C 173.83464 661.2195 177.41637 657.6378 181.83464 657.6378 Z" fill="#ff7c00"/>
+        <path d="M 181.83464 657.6378 L 305.1929 657.6378 C 309.6112 657.6378 313.1929 661.2195 313.1929 665.6378 L 313.1929 692.8846 C 313.1929 697.30286 309.6112 700.8846 305.1929 700.8846 L 181.83464 700.8846 C 177.41637 700.8846 173.83464 697.30286 173.83464 692.8846 L 173.83464 665.6378 C 173.83464 661.2195 177.41637 657.6378 181.83464 657.6378 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(178.83464 658.2612)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="7.315852" y="11">Random Algorithms 2 </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="16.195735" y="25">(Chernoff and The </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="8.654719" y="39">Probabilistic Method)</tspan>
+        </text>
+      </g>
+      <g id="Line_39">
+        <line x1="229.6063" y1="273.96063" x2="858.8976" y2="273.96063" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_38">
+        <text transform="translate(328.1496 87.65873)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="39" font-weight="400" fill="black" x=".4675" y="37">Computer Science</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37">
+        <path d="M 178.07874 170.07874 L 301.437 170.07874 C 305.8553 170.07874 309.437 173.66046 309.437 178.07874 L 309.437 205.32553 C 309.437 209.7438 305.8553 213.32553 301.437 213.32553 L 178.07874 213.32553 C 173.66046 213.32553 170.07874 209.7438 170.07874 205.32553 L 170.07874 178.07874 C 170.07874 173.66046 173.66046 170.07874 178.07874 170.07874 Z" fill="#d84800"/>
+        <path d="M 178.07874 170.07874 L 301.437 170.07874 C 305.8553 170.07874 309.437 173.66046 309.437 178.07874 L 309.437 205.32553 C 309.437 209.7438 305.8553 213.32553 301.437 213.32553 L 178.07874 213.32553 C 173.66046 213.32553 170.07874 209.7438 170.07874 205.32553 L 170.07874 178.07874 C 170.07874 173.66046 173.66046 170.07874 178.07874 170.07874 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(175.07874 177.70213)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="5.660579" y="11">Markov Chains Mixing </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="43.561946" y="25">Times 7</tspan>
+        </text>
+      </g>
+      <g id="Graphic_36">
+        <path d="M 483.75984 220.37526 L 607.1181 220.37526 C 611.5364 220.37526 615.1181 223.95698 615.1181 228.37526 L 615.1181 255.62205 C 615.1181 260.04032 611.5364 263.62205 607.1181 263.62205 L 483.75984 263.62205 C 479.34156 263.62205 475.75984 260.04032 475.75984 255.62205 L 475.75984 228.37526 C 475.75984 223.95698 479.34156 220.37526 483.75984 220.37526 Z" fill="#d84800"/>
+        <path d="M 483.75984 220.37526 L 607.1181 220.37526 C 611.5364 220.37526 615.1181 223.95698 615.1181 228.37526 L 615.1181 255.62205 C 615.1181 260.04032 611.5364 263.62205 607.1181 263.62205 L 483.75984 263.62205 C 479.34156 263.62205 475.75984 260.04032 475.75984 255.62205 L 475.75984 228.37526 C 475.75984 223.95698 479.34156 220.37526 483.75984 220.37526 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(480.75984 227.99865)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="11.979915" y="11">Analysis of Boolean </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="29.66058" y="25">Functions B1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_35">
+        <path d="M 483.75984 170.07874 L 607.1181 170.07874 C 611.5364 170.07874 615.1181 173.66046 615.1181 178.07874 L 615.1181 205.32553 C 615.1181 209.7438 611.5364 213.32553 607.1181 213.32553 L 483.75984 213.32553 C 479.34156 213.32553 475.75984 209.7438 475.75984 205.32553 L 475.75984 178.07874 C 475.75984 173.66046 479.34156 170.07874 483.75984 170.07874 Z" fill="#d84800"/>
+        <path d="M 483.75984 170.07874 L 607.1181 170.07874 C 611.5364 170.07874 615.1181 173.66046 615.1181 178.07874 L 615.1181 205.32553 C 615.1181 209.7438 611.5364 213.32553 607.1181 213.32553 L 483.75984 213.32553 C 479.34156 213.32553 475.75984 209.7438 475.75984 205.32553 L 475.75984 178.07874 C 475.75984 173.66046 479.34156 170.07874 483.75984 170.07874 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(480.75984 177.70213)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="11.979915" y="11">Analysis of Boolean </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="29.66058" y="25">Functions B2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_34">
+        <path d="M 331.1496 220.37526 L 454.50787 220.37526 C 458.92615 220.37526 462.50787 223.95698 462.50787 228.37526 L 462.50787 255.62205 C 462.50787 260.04032 458.92615 263.62205 454.50787 263.62205 L 331.1496 263.62205 C 326.73133 263.62205 323.1496 260.04032 323.1496 255.62205 L 323.1496 228.37526 C 323.1496 223.95698 326.73133 220.37526 331.1496 220.37526 Z" fill="#d84800"/>
+        <path d="M 331.1496 220.37526 L 454.50787 220.37526 C 458.92615 220.37526 462.50787 223.95698 462.50787 228.37526 L 462.50787 255.62205 C 462.50787 260.04032 458.92615 263.62205 454.50787 263.62205 L 331.1496 263.62205 C 326.73133 263.62205 323.1496 260.04032 323.1496 255.62205 L 323.1496 228.37526 C 323.1496 223.95698 326.73133 220.37526 331.1496 220.37526 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(328.1496 227.99865)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="20.65179" y="11">Concentration of </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="17.988704" y="25">Measure for RA 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <path d="M 331.1496 170.07874 L 454.50787 170.07874 C 458.92615 170.07874 462.50787 173.66046 462.50787 178.07874 L 462.50787 205.32553 C 462.50787 209.7438 458.92615 213.32553 454.50787 213.32553 L 331.1496 213.32553 C 326.73133 213.32553 323.1496 209.7438 323.1496 205.32553 L 323.1496 178.07874 C 323.1496 173.66046 326.73133 170.07874 331.1496 170.07874 Z" fill="#d84800"/>
+        <path d="M 331.1496 170.07874 L 454.50787 170.07874 C 458.92615 170.07874 462.50787 173.66046 462.50787 178.07874 L 462.50787 205.32553 C 462.50787 209.7438 458.92615 213.32553 454.50787 213.32553 L 331.1496 213.32553 C 326.73133 213.32553 323.1496 209.7438 323.1496 205.32553 L 323.1496 178.07874 C 323.1496 173.66046 326.73133 170.07874 331.1496 170.07874 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(328.1496 177.70213)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="20.65179" y="11">Concentration of </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="17.988704" y="25">Measure for RA 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <path d="M 180.91338 852.5012 L 304.27165 852.5012 C 308.68993 852.5012 312.27165 856.083 312.27165 860.5012 L 312.27165 887.748 C 312.27165 892.1663 308.68993 895.748 304.27165 895.748 L 180.91338 895.748 C 176.4951 895.748 172.91338 892.1663 172.91338 887.748 L 172.91338 860.5012 C 172.91338 856.083 176.4951 852.5012 180.91338 852.5012 Z" fill="#ffaa41"/>
+        <path d="M 180.91338 852.5012 L 304.27165 852.5012 C 308.68993 852.5012 312.27165 856.083 312.27165 860.5012 L 312.27165 887.748 C 312.27165 892.1663 308.68993 895.748 304.27165 895.748 L 180.91338 895.748 C 176.4951 895.748 172.91338 892.1663 172.91338 887.748 L 172.91338 860.5012 C 172.91338 856.083 176.4951 852.5012 180.91338 852.5012 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(177.91338 860.1246)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="27.331477" y="11">Algorithms B3</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="11.997493" y="25">(NP-Completeness)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <path d="M 180.91338 802.2047 L 304.27165 802.2047 C 308.68993 802.2047 312.27165 805.7864 312.27165 810.2047 L 312.27165 837.4515 C 312.27165 841.8698 308.68993 845.4515 304.27165 845.4515 L 180.91338 845.4515 C 176.4951 845.4515 172.91338 841.8698 172.91338 837.4515 L 172.91338 810.2047 C 172.91338 805.7864 176.4951 802.2047 180.91338 802.2047 Z" fill="#ffaa41"/>
+        <path d="M 180.91338 802.2047 L 304.27165 802.2047 C 308.68993 802.2047 312.27165 805.7864 312.27165 810.2047 L 312.27165 837.4515 C 312.27165 841.8698 308.68993 845.4515 304.27165 845.4515 L 180.91338 845.4515 C 176.4951 845.4515 172.91338 841.8698 172.91338 837.4515 L 172.91338 810.2047 C 172.91338 805.7864 176.4951 802.2047 180.91338 802.2047 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(177.91338 802.8281)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="27.331477" y="11">Algorithms B4</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="4.3129225" y="25">(Intro to Approximation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="11.976985" y="39">and Random Algos)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <path d="M 30.677165 705.0997 L 154.03543 705.0997 C 158.45371 705.0997 162.03543 708.6814 162.03543 713.0997 L 162.03543 740.34645 C 162.03543 744.7647 158.45371 748.34645 154.03543 748.34645 L 30.677165 748.34645 C 26.258887 748.34645 22.677165 744.7647 22.677165 740.34645 L 22.677165 713.0997 C 22.677165 708.6814 26.258887 705.0997 30.677165 705.0997 Z" fill="#ff7c00"/>
+        <path d="M 30.677165 705.0997 L 154.03543 705.0997 C 158.45371 705.0997 162.03543 708.6814 162.03543 713.0997 L 162.03543 740.34645 C 162.03543 744.7647 158.45371 748.34645 154.03543 748.34645 L 30.677165 748.34645 C 26.258887 748.34645 22.677165 744.7647 22.677165 740.34645 L 22.677165 713.0997 C 22.677165 708.6814 26.258887 705.0997 30.677165 705.0997 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(27.677165 712.7231)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="23.65179" y="11">Advanced Data </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="32.332454" y="25">Structures 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <path d="M 31.137795 657.6378 L 154.49606 657.6378 C 158.91434 657.6378 162.49606 661.2195 162.49606 665.6378 L 162.49606 692.8846 C 162.49606 697.30286 158.91434 700.8846 154.49606 700.8846 L 31.137795 700.8846 C 26.719517 700.8846 23.137795 697.30286 23.137795 692.8846 L 23.137795 665.6378 C 23.137795 661.2195 26.719517 657.6378 31.137795 657.6378 Z" fill="#ff7c00"/>
+        <path d="M 31.137795 657.6378 L 154.49606 657.6378 C 158.91434 657.6378 162.49606 661.2195 162.49606 665.6378 L 162.49606 692.8846 C 162.49606 697.30286 158.91434 700.8846 154.49606 700.8846 L 31.137795 700.8846 C 26.719517 700.8846 23.137795 697.30286 23.137795 692.8846 L 23.137795 665.6378 C 23.137795 661.2195 26.719517 657.6378 31.137795 657.6378 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(28.137795 665.2612)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="23.65179" y="11">Advanced Data </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="32.332454" y="25">Structures 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <path d="M 481.3858 855.3359 L 604.7441 855.3359 C 609.1624 855.3359 612.7441 858.9176 612.7441 863.3359 L 612.7441 890.5827 C 612.7441 895.001 609.1624 898.5827 604.7441 898.5827 L 481.3858 898.5827 C 476.96755 898.5827 473.3858 895.001 473.3858 890.5827 L 473.3858 863.3359 C 473.3858 858.9176 476.96755 855.3359 481.3858 855.3359 Z" fill="#ffaa41"/>
+        <path d="M 481.3858 855.3359 L 604.7441 855.3359 C 609.1624 855.3359 612.7441 858.9176 612.7441 863.3359 L 612.7441 890.5827 C 612.7441 895.001 609.1624 898.5827 604.7441 898.5827 L 481.3858 898.5827 C 476.96755 898.5827 473.3858 895.001 473.3858 890.5827 L 473.3858 863.3359 C 473.3858 858.9176 476.96755 855.3359 481.3858 855.3359 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(478.3858 855.9593)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="3.6478835" y="11">Theory of Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="10.204524" y="25">B2 (Time and Space </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="33.00628" y="39">Complexity)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <path d="M 779.0236 705.0997 L 902.3819 705.0997 C 906.8002 705.0997 910.3819 708.6814 910.3819 713.0997 L 910.3819 740.34645 C 910.3819 744.7647 906.8002 748.34645 902.3819 748.34645 L 779.0236 748.34645 C 774.6053 748.34645 771.0236 744.7647 771.0236 740.34645 L 771.0236 713.0997 C 771.0236 708.6814 774.6053 705.0997 779.0236 705.0997 Z" fill="#ff7c00"/>
+        <path d="M 779.0236 705.0997 L 902.3819 705.0997 C 906.8002 705.0997 910.3819 708.6814 910.3819 713.0997 L 910.3819 740.34645 C 910.3819 744.7647 906.8002 748.34645 902.3819 748.34645 L 779.0236 748.34645 C 774.6053 748.34645 771.0236 744.7647 771.0236 740.34645 L 771.0236 713.0997 C 771.0236 708.6814 774.6053 705.0997 779.0236 705.0997 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(776.0236 712.7231)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="16.99847" y="11">Algorithmic Game </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="36.999446" y="25">Theory B1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_26">
+        <path d="M 779.0236 657.6378 L 902.3819 657.6378 C 906.8002 657.6378 910.3819 661.2195 910.3819 665.6378 L 910.3819 692.8846 C 910.3819 697.30286 906.8002 700.8846 902.3819 700.8846 L 779.0236 700.8846 C 774.6053 700.8846 771.0236 697.30286 771.0236 692.8846 L 771.0236 665.6378 C 771.0236 661.2195 774.6053 657.6378 779.0236 657.6378 Z" fill="#ff7c00"/>
+        <path d="M 779.0236 657.6378 L 902.3819 657.6378 C 906.8002 657.6378 910.3819 661.2195 910.3819 665.6378 L 910.3819 692.8846 C 910.3819 697.30286 906.8002 700.8846 902.3819 700.8846 L 779.0236 700.8846 C 774.6053 700.8846 771.0236 697.30286 771.0236 692.8846 L 771.0236 665.6378 C 771.0236 661.2195 774.6053 657.6378 779.0236 657.6378 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(776.0236 665.2612)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="16.99847" y="11">Algorithmic Game </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="36.999446" y="25">Theory B2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <path d="M 631.62204 855.3359 L 754.9803 855.3359 C 759.3986 855.3359 762.9803 858.9176 762.9803 863.3359 L 762.9803 890.5827 C 762.9803 895.001 759.3986 898.5827 754.9803 898.5827 L 631.62204 898.5827 C 627.2038 898.5827 623.62204 895.001 623.62204 890.5827 L 623.62204 863.3359 C 623.62204 858.9176 627.2038 855.3359 631.62204 855.3359 Z" fill="#ffaa41"/>
+        <path d="M 631.62204 855.3359 L 754.9803 855.3359 C 759.3986 855.3359 762.9803 858.9176 762.9803 863.3359 L 762.9803 890.5827 C 762.9803 895.001 759.3986 898.5827 754.9803 898.5827 L 631.62204 898.5827 C 627.2038 898.5827 623.62204 895.001 623.62204 890.5827 L 623.62204 863.3359 C 623.62204 858.9176 627.2038 855.3359 631.62204 855.3359 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(628.62204 862.9593)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="1.655696" y="11">Theory of Programming </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="25.977962" y="25">Languages B3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <path d="M 331.1496 609.4488 L 454.50787 609.4488 C 458.92615 609.4488 462.50787 613.03054 462.50787 617.4488 L 462.50787 644.6956 C 462.50787 649.1139 458.92615 652.6956 454.50787 652.6956 L 331.1496 652.6956 C 326.73133 652.6956 323.1496 649.1139 323.1496 644.6956 L 323.1496 617.4488 C 323.1496 613.03054 326.73133 609.4488 331.1496 609.4488 Z" fill="#ff7c00"/>
+        <path d="M 331.1496 609.4488 L 454.50787 609.4488 C 458.92615 609.4488 462.50787 613.03054 462.50787 617.4488 L 462.50787 644.6956 C 462.50787 649.1139 458.92615 652.6956 454.50787 652.6956 L 331.1496 652.6956 C 326.73133 652.6956 323.1496 649.1139 323.1496 644.6956 L 323.1496 617.4488 C 323.1496 613.03054 326.73133 609.4488 331.1496 609.4488 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(328.1496 610.0722)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="26.326594" y="11">Approximation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="8.669368" y="25">Algorithms 3 (Primal-</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="50.34124" y="39">Dual)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <path d="M 180.91338 609.4488 L 304.27165 609.4488 C 308.68993 609.4488 312.27165 613.03054 312.27165 617.4488 L 312.27165 644.6956 C 312.27165 649.1139 308.68993 652.6956 304.27165 652.6956 L 180.91338 652.6956 C 176.4951 652.6956 172.91338 649.1139 172.91338 644.6956 L 172.91338 617.4488 C 172.91338 613.03054 176.4951 609.4488 180.91338 609.4488 Z" fill="#ff7c00"/>
+        <path d="M 180.91338 609.4488 L 304.27165 609.4488 C 308.68993 609.4488 312.27165 613.03054 312.27165 617.4488 L 312.27165 644.6956 C 312.27165 649.1139 308.68993 652.6956 304.27165 652.6956 L 180.91338 652.6956 C 176.4951 652.6956 172.91338 649.1139 172.91338 644.6956 L 172.91338 617.4488 C 172.91338 613.03054 176.4951 609.4488 180.91338 609.4488 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(177.91338 617.0722)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="7.315852" y="11">Random Algorithms 3 </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="8.326594" y="25">(Random Processes)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <path d="M 180.91338 563.3674 L 304.27165 563.3674 C 308.68993 563.3674 312.27165 566.9491 312.27165 571.3674 L 312.27165 598.6142 C 312.27165 603.03245 308.68993 606.6142 304.27165 606.6142 L 180.91338 606.6142 C 176.4951 606.6142 172.91338 603.03245 172.91338 598.6142 L 172.91338 571.3674 C 172.91338 566.9491 176.4951 563.3674 180.91338 563.3674 Z" fill="#ff7c00"/>
+        <path d="M 180.91338 563.3674 L 304.27165 563.3674 C 308.68993 563.3674 312.27165 566.9491 312.27165 571.3674 L 312.27165 598.6142 C 312.27165 603.03245 308.68993 606.6142 304.27165 606.6142 L 180.91338 606.6142 C 176.4951 606.6142 172.91338 603.03245 172.91338 598.6142 L 172.91338 571.3674 C 172.91338 566.9491 176.4951 563.3674 180.91338 563.3674 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(177.91338 570.9908)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="7.315852" y="11">Random Algorithms 4 </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="42.02093" y="25">(MCMC)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <path d="M 333.98425 903.5249 L 457.3425 903.5249 C 461.7608 903.5249 465.3425 907.1066 465.3425 911.5249 L 465.3425 938.7716 C 465.3425 943.1899 461.7608 946.7716 457.3425 946.7716 L 333.98425 946.7716 C 329.56597 946.7716 325.98425 943.1899 325.98425 938.7716 L 325.98425 911.5249 C 325.98425 907.1066 329.56597 903.5249 333.98425 903.5249 Z" fill="#ffaa41"/>
+        <path d="M 333.98425 903.5249 L 457.3425 903.5249 C 461.7608 903.5249 465.3425 907.1066 465.3425 911.5249 L 465.3425 938.7716 C 465.3425 943.1899 461.7608 946.7716 457.3425 946.7716 L 333.98425 946.7716 C 329.56597 946.7716 325.98425 943.1899 325.98425 938.7716 L 325.98425 911.5249 C 325.98425 907.1066 329.56597 903.5249 333.98425 903.5249 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(330.98425 911.1483)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="13.98968" y="11">Data Structures B3</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="13.210383" y="25">(Trees and Sorting)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <path d="M 333.52362 855.3359 L 456.8819 855.3359 C 461.30017 855.3359 464.8819 858.9176 464.8819 863.3359 L 464.8819 890.5827 C 464.8819 895.001 461.30017 898.5827 456.8819 898.5827 L 333.52362 898.5827 C 329.10534 898.5827 325.52362 895.001 325.52362 890.5827 L 325.52362 863.3359 C 325.52362 858.9176 329.10534 855.3359 333.52362 855.3359 Z" fill="#ffaa41"/>
+        <path d="M 333.52362 855.3359 L 456.8819 855.3359 C 461.30017 855.3359 464.8819 858.9176 464.8819 863.3359 L 464.8819 890.5827 C 464.8819 895.001 461.30017 898.5827 456.8819 898.5827 L 333.52362 898.5827 C 329.10534 898.5827 325.52362 895.001 325.52362 890.5827 L 325.52362 863.3359 C 325.52362 858.9176 329.10534 855.3359 333.52362 855.3359 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(330.52362 855.9593)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="13.98968" y="11">Data Structures B4</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="18.091243" y="25">(Hash Tables and </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="43.670344" y="39">Search)</tspan>
+        </text>
+      </g>
+      <g id="Line_19">
+        <line x1="181.41732" y1="538.5827" x2="810.7087" y2="538.5827" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_18">
+        <path d="M 181.37401 478.328 L 304.73228 478.328 C 309.15056 478.328 312.7323 481.90973 312.7323 486.328 L 312.7323 513.5748 C 312.7323 517.9931 309.15056 521.5748 304.73228 521.5748 L 181.37401 521.5748 C 176.95574 521.5748 173.37401 517.9931 173.37401 513.5748 L 173.37401 486.328 C 173.37401 481.90973 176.95574 478.328 181.37401 478.328 Z" fill="#d87b41"/>
+        <path d="M 181.37401 478.328 L 304.73228 478.328 C 309.15056 478.328 312.7323 481.90973 312.7323 486.328 L 312.7323 513.5748 C 312.7323 517.9931 309.15056 521.5748 304.73228 521.5748 L 181.37401 521.5748 C 176.95574 521.5748 173.37401 517.9931 173.37401 513.5748 L 173.37401 486.328 C 173.37401 481.90973 176.95574 478.328 181.37401 478.328 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(178.37401 478.9514)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="5.660579" y="11">Markov Chains Mixing </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="3.888118" y="25">Times 1 (Finite Markov </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="44.00433" y="39">Chains)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <path d="M 180.91338 289.13386 L 304.27165 289.13386 C 308.68993 289.13386 312.27165 292.71558 312.27165 297.13386 L 312.27165 324.38064 C 312.27165 328.79892 308.68993 332.38064 304.27165 332.38064 L 180.91338 332.38064 C 176.4951 332.38064 172.91338 328.79892 172.91338 324.38064 L 172.91338 297.13386 C 172.91338 292.71558 176.4951 289.13386 180.91338 289.13386 Z" fill="#d87b41"/>
+        <path d="M 180.91338 289.13386 L 304.27165 289.13386 C 308.68993 289.13386 312.27165 292.71558 312.27165 297.13386 L 312.27165 324.38064 C 312.27165 328.79892 308.68993 332.38064 304.27165 332.38064 L 180.91338 332.38064 C 176.4951 332.38064 172.91338 328.79892 172.91338 324.38064 L 172.91338 297.13386 C 172.91338 292.71558 176.4951 289.13386 180.91338 289.13386 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(177.91338 296.75725)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="5.660579" y="11">Markov Chains Mixing </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".20550064" y="25">Times 5 (Path Coupling)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <path d="M 180.91338 337.32283 L 304.27165 337.32283 C 308.68993 337.32283 312.27165 340.90455 312.27165 345.32283 L 312.27165 372.5696 C 312.27165 376.9879 308.68993 380.5696 304.27165 380.5696 L 180.91338 380.5696 C 176.4951 380.5696 172.91338 376.9879 172.91338 372.5696 L 172.91338 345.32283 C 172.91338 340.90455 176.4951 337.32283 180.91338 337.32283 Z" fill="#d87b41"/>
+        <path d="M 180.91338 337.32283 L 304.27165 337.32283 C 308.68993 337.32283 312.27165 340.90455 312.27165 345.32283 L 312.27165 372.5696 C 312.27165 376.9879 308.68993 380.5696 304.27165 380.5696 L 180.91338 380.5696 C 176.4951 380.5696 172.91338 376.9879 172.91338 372.5696 L 172.91338 345.32283 C 172.91338 340.90455 176.4951 337.32283 180.91338 337.32283 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(177.91338 337.94623)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="5.660579" y="11">Markov Chains Mixing </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="11.212337" y="25">Times 4 (Hitting and </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="29.0014" y="39">Cover Times)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <path d="M 180.91338 384.7847 L 304.27165 384.7847 C 308.68993 384.7847 312.27165 388.36643 312.27165 392.7847 L 312.27165 420.0315 C 312.27165 424.44977 308.68993 428.0315 304.27165 428.0315 L 180.91338 428.0315 C 176.4951 428.0315 172.91338 424.44977 172.91338 420.0315 L 172.91338 392.7847 C 172.91338 388.36643 176.4951 384.7847 180.91338 384.7847 Z" fill="#d87b41"/>
+        <path d="M 180.91338 384.7847 L 304.27165 384.7847 C 308.68993 384.7847 312.27165 388.36643 312.27165 392.7847 L 312.27165 420.0315 C 312.27165 424.44977 308.68993 428.0315 304.27165 428.0315 L 180.91338 428.0315 C 176.4951 428.0315 172.91338 424.44977 172.91338 420.0315 L 172.91338 392.7847 C 172.91338 388.36643 176.4951 384.7847 180.91338 384.7847 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(177.91338 385.4081)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="5.660579" y="11">Markov Chains Mixing </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="23.55511" y="25">Times 3 (Lower </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="42.331477" y="39">Bounds)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <path d="M 180.91338 432.9737 L 304.27165 432.9737 C 308.68993 432.9737 312.27165 436.5554 312.27165 440.9737 L 312.27165 468.22047 C 312.27165 472.63875 308.68993 476.22047 304.27165 476.22047 L 180.91338 476.22047 C 176.4951 476.22047 172.91338 472.63875 172.91338 468.22047 L 172.91338 440.9737 C 172.91338 436.5554 176.4951 432.9737 180.91338 432.9737 Z" fill="#d87b41"/>
+        <path d="M 180.91338 432.9737 L 304.27165 432.9737 C 308.68993 432.9737 312.27165 436.5554 312.27165 440.9737 L 312.27165 468.22047 C 312.27165 472.63875 308.68993 476.22047 304.27165 476.22047 L 180.91338 476.22047 C 176.4951 476.22047 172.91338 472.63875 172.91338 468.22047 L 172.91338 440.9737 C 172.91338 436.5554 176.4951 432.9737 180.91338 432.9737 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(177.91338 440.5971)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="5.660579" y="11">Markov Chains Mixing </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="2.8861647" y="25">Times 2 (Mixing Times)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <path d="M 479.0118 608.7217 L 602.3701 608.7217 C 606.78835 608.7217 610.3701 612.3034 610.3701 616.7217 L 610.3701 643.9685 C 610.3701 648.3868 606.78835 651.9685 602.3701 651.9685 L 479.0118 651.9685 C 474.59353 651.9685 471.0118 648.3868 471.0118 643.9685 L 471.0118 616.7217 C 471.0118 612.3034 474.59353 608.7217 479.0118 608.7217 Z" fill="#ff7c00"/>
+        <path d="M 479.0118 608.7217 L 602.3701 608.7217 C 606.78835 608.7217 610.3701 612.3034 610.3701 616.7217 L 610.3701 643.9685 C 610.3701 648.3868 606.78835 651.9685 602.3701 651.9685 L 479.0118 651.9685 C 474.59353 651.9685 471.0118 648.3868 471.0118 643.9685 L 471.0118 616.7217 C 471.0118 612.3034 474.59353 608.7217 479.0118 608.7217 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(476.0118 609.3451)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.659602" y="11">Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.000423" y="25">Complexity 3</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="2.3178053" y="39">(Random Computation)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <path d="M 479.47244 561.25984 L 602.8307 561.25984 C 607.249 561.25984 610.8307 564.84156 610.8307 569.25984 L 610.8307 596.5066 C 610.8307 600.9249 607.249 604.5066 602.8307 604.5066 L 479.47244 604.5066 C 475.05416 604.5066 471.47244 600.9249 471.47244 596.5066 L 471.47244 569.25984 C 471.47244 564.84156 475.05416 561.25984 479.47244 561.25984 Z" fill="#ff7c00"/>
+        <path d="M 479.47244 561.25984 L 602.8307 561.25984 C 607.249 561.25984 610.8307 564.84156 610.8307 569.25984 L 610.8307 596.5066 C 610.8307 600.9249 607.249 604.5066 602.8307 604.5066 L 479.47244 604.5066 C 475.05416 604.5066 471.47244 600.9249 471.47244 596.5066 L 471.47244 569.25984 C 471.47244 564.84156 475.05416 561.25984 479.47244 561.25984 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(476.47244 561.8832)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.659602" y="11">Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.000423" y="25">Complexity 4</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="22.881282" y="39">(PCP Theorem)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <path d="M 481.84645 486.83195 L 605.2047 486.83195 C 609.623 486.83195 613.2047 490.4137 613.2047 494.83195 L 613.2047 522.07874 C 613.2047 526.497 609.623 530.07874 605.2047 530.07874 L 481.84645 530.07874 C 477.4282 530.07874 473.84645 526.497 473.84645 522.07874 L 473.84645 494.83195 C 473.84645 490.4137 477.4282 486.83195 481.84645 486.83195 Z" fill="#d87b42"/>
+        <path d="M 481.84645 486.83195 L 605.2047 486.83195 C 609.623 486.83195 613.2047 490.4137 613.2047 494.83195 L 613.2047 522.07874 C 613.2047 526.497 609.623 530.07874 605.2047 530.07874 L 481.84645 530.07874 C 477.4282 530.07874 473.84645 526.497 473.84645 522.07874 L 473.84645 494.83195 C 473.84645 490.4137 477.4282 486.83195 481.84645 486.83195 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(478.84645 487.45534)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.659602" y="11">Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.000423" y="25">Complexity 5</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="11.675227" y="39">(Comm Complexity)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <path d="M 482.3071 439.3701 L 605.66535 439.3701 C 610.0836 439.3701 613.66535 442.9518 613.66535 447.3701 L 613.66535 474.61686 C 613.66535 479.03514 610.0836 482.61686 605.66535 482.61686 L 482.3071 482.61686 C 477.8888 482.61686 474.3071 479.03514 474.3071 474.61686 L 474.3071 447.3701 C 474.3071 442.9518 477.8888 439.3701 482.3071 439.3701 Z" fill="#d87b42"/>
+        <path d="M 482.3071 439.3701 L 605.66535 439.3701 C 610.0836 439.3701 613.66535 442.9518 613.66535 447.3701 L 613.66535 474.61686 C 613.66535 479.03514 610.0836 482.61686 605.66535 482.61686 L 482.3071 482.61686 C 477.8888 482.61686 474.3071 479.03514 474.3071 474.61686 L 474.3071 447.3701 C 474.3071 442.9518 477.8888 439.3701 482.3071 439.3701 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(479.3071 439.99347)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.659602" y="11">Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.000423" y="25">Complexity 2</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="15.000423" y="39">(Proof Complexity)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 481.84645 390.454 L 605.2047 390.454 C 609.623 390.454 613.2047 394.0357 613.2047 398.454 L 613.2047 425.7008 C 613.2047 430.11906 609.623 433.7008 605.2047 433.7008 L 481.84645 433.7008 C 477.4282 433.7008 473.84645 430.11906 473.84645 425.7008 L 473.84645 398.454 C 473.84645 394.0357 477.4282 390.454 481.84645 390.454 Z" fill="#d87b42"/>
+        <path d="M 481.84645 390.454 L 605.2047 390.454 C 609.623 390.454 613.2047 394.0357 613.2047 398.454 L 613.2047 425.7008 C 613.2047 430.11906 609.623 433.7008 605.2047 433.7008 L 481.84645 433.7008 C 477.4282 433.7008 473.84645 430.11906 473.84645 425.7008 L 473.84645 398.454 C 473.84645 394.0357 477.4282 390.454 481.84645 390.454 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(478.84645 391.0774)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.659602" y="11">Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.000423" y="25">Complexity 3</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="36.66546" y="39">(Counting)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 482.3071 342.99212 L 605.66535 342.99212 C 610.0836 342.99212 613.66535 346.57385 613.66535 350.99212 L 613.66535 378.2389 C 613.66535 382.6572 610.0836 386.2389 605.66535 386.2389 L 482.3071 386.2389 C 477.8888 386.2389 474.3071 382.6572 474.3071 378.2389 L 474.3071 350.99212 C 474.3071 346.57385 477.8888 342.99212 482.3071 342.99212 Z" fill="#d87b42"/>
+        <path d="M 482.3071 342.99212 L 605.66535 342.99212 C 610.0836 342.99212 613.66535 346.57385 613.66535 350.99212 L 613.66535 378.2389 C 613.66535 382.6572 610.0836 386.2389 605.66535 386.2389 L 482.3071 386.2389 C 477.8888 386.2389 474.3071 382.6572 474.3071 378.2389 L 474.3071 350.99212 C 474.3071 346.57385 477.8888 342.99212 482.3071 342.99212 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(479.3071 343.6155)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.659602" y="11">Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.000423" y="25">Complexity 4</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="31.99847" y="39">(Expanders)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <path d="M 483.75984 291.9685 L 607.1181 291.9685 C 611.5364 291.9685 615.1181 295.55022 615.1181 299.9685 L 615.1181 327.2153 C 615.1181 331.63357 611.5364 335.2153 607.1181 335.2153 L 483.75984 335.2153 C 479.34156 335.2153 475.75984 331.63357 475.75984 327.2153 L 475.75984 299.9685 C 475.75984 295.55022 479.34156 291.9685 483.75984 291.9685 Z" fill="#d87b42"/>
+        <path d="M 483.75984 291.9685 L 607.1181 291.9685 C 611.5364 291.9685 615.1181 295.55022 615.1181 299.9685 L 615.1181 327.2153 C 615.1181 331.63357 611.5364 335.2153 607.1181 335.2153 L 483.75984 335.2153 C 479.34156 335.2153 475.75984 331.63357 475.75984 327.2153 L 475.75984 299.9685 C 475.75984 295.55022 479.34156 291.9685 483.75984 291.9685 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(480.75984 292.5919)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.659602" y="11">Computation </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="30.000423" y="25">Complexity 4</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="22.881282" y="39">(PCP Theorem)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 924.0512 702.9921 L 1047.4094 702.9921 C 1051.8277 702.9921 1055.4094 706.57384 1055.4094 710.9921 L 1055.4094 738.2389 C 1055.4094 742.6572 1051.8277 746.2389 1047.4094 746.2389 L 924.0512 746.2389 C 919.6329 746.2389 916.0512 742.6572 916.0512 738.2389 L 916.0512 710.9921 C 916.0512 706.57384 919.6329 702.9921 924.0512 702.9921 Z" fill="#ff7c00"/>
+        <path d="M 924.0512 702.9921 L 1047.4094 702.9921 C 1051.8277 702.9921 1055.4094 706.57384 1055.4094 710.9921 L 1055.4094 738.2389 C 1055.4094 742.6572 1051.8277 746.2389 1047.4094 746.2389 L 924.0512 746.2389 C 919.6329 746.2389 916.0512 742.6572 916.0512 738.2389 L 916.0512 710.9921 C 916.0512 706.57384 919.6329 702.9921 924.0512 702.9921 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(921.0512 717.6155)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="4.3129225" y="11">Quantum Computing 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 924.5118 655.53025 L 1047.8701 655.53025 C 1052.2884 655.53025 1055.8701 659.112 1055.8701 663.53025 L 1055.8701 690.777 C 1055.8701 695.1953 1052.2884 698.777 1047.8701 698.777 L 924.5118 698.777 C 920.0935 698.777 916.5118 695.1953 916.5118 690.777 L 916.5118 663.53025 C 916.5118 659.112 920.0935 655.53025 924.5118 655.53025 Z" fill="#ff7c00"/>
+        <path d="M 924.5118 655.53025 L 1047.8701 655.53025 C 1052.2884 655.53025 1055.8701 659.112 1055.8701 663.53025 L 1055.8701 690.777 C 1055.8701 695.1953 1052.2884 698.777 1047.8701 698.777 L 924.5118 698.777 C 920.0935 698.777 916.5118 695.1953 916.5118 690.777 L 916.5118 663.53025 C 916.5118 659.112 920.0935 655.53025 924.5118 655.53025 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(921.5118 670.15364)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="4.3129225" y="11">Quantum Computing 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 923.5905 607.3413 L 1046.9488 607.3413 C 1051.3671 607.3413 1054.9488 610.923 1054.9488 615.3413 L 1054.9488 642.58806 C 1054.9488 647.0063 1051.3671 650.58806 1046.9488 650.58806 L 923.5905 650.58806 C 919.1723 650.58806 915.5905 647.0063 915.5905 642.58806 L 915.5905 615.3413 C 915.5905 610.923 919.1723 607.3413 923.5905 607.3413 Z" fill="#ff7c00"/>
+        <path d="M 923.5905 607.3413 L 1046.9488 607.3413 C 1051.3671 607.3413 1054.9488 610.923 1054.9488 615.3413 L 1054.9488 642.58806 C 1054.9488 647.0063 1051.3671 650.58806 1046.9488 650.58806 L 923.5905 650.58806 C 919.1723 650.58806 915.5905 647.0063 915.5905 642.58806 L 915.5905 615.3413 C 915.5905 610.923 919.1723 607.3413 923.5905 607.3413 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(920.5905 621.9647)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="4.3129225" y="11">Quantum Computing 3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 923.5905 561.25984 L 1046.9488 561.25984 C 1051.3671 561.25984 1054.9488 564.84156 1054.9488 569.25984 L 1054.9488 596.5066 C 1054.9488 600.9249 1051.3671 604.5066 1046.9488 604.5066 L 923.5905 604.5066 C 919.1723 604.5066 915.5905 600.9249 915.5905 596.5066 L 915.5905 569.25984 C 915.5905 564.84156 919.1723 561.25984 923.5905 561.25984 Z" fill="#ff7c00"/>
+        <path d="M 923.5905 561.25984 L 1046.9488 561.25984 C 1051.3671 561.25984 1054.9488 564.84156 1054.9488 569.25984 L 1054.9488 596.5066 C 1054.9488 600.9249 1051.3671 604.5066 1046.9488 604.5066 L 923.5905 604.5066 C 919.1723 604.5066 915.5905 600.9249 915.5905 596.5066 L 915.5905 569.25984 C 915.5905 564.84156 919.1723 561.25984 923.5905 561.25984 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(920.5905 575.8832)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="4.3129225" y="11">Quantum Computing 4</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
