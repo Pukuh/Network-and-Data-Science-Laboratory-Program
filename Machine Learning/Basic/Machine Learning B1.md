@@ -7,7 +7,7 @@ Basic knowledge of machine learning.
 3.	Probabilistic Learning. Naïve Bayes
 4.	Divide and Conquer. Decision Trees and Rules
 
-## Bibliography
+## Bibliography
 1. Brett Lantz. **Machine Learning with R**. Packt Publishing, 2015.  Chapters 1, 2, 3, and 4.
 
 ## Online Courses
