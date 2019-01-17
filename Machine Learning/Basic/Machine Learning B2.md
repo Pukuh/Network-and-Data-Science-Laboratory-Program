@@ -9,7 +9,7 @@ Basic knowledge of machine learning.
 5.	Clustering
 6.	Model Performance
 
-## Bibliography
+## Bibliography
 1. Brett Lantz. **Machine Learning with R**. Packt Publishing, 2015.  Chapters 6, 7, 8, 9, 10, and 11.
 
 ## Online Courses
