@@ -18,6 +18,7 @@ Basic knowledge of reinforcement learning.
 
 ## Secondary Bibliography
 
+
 ## Code
 1. [Python implementation of the examples in Sutton's book](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 2. [OpenAI Gym](https://gym.openai.com)
