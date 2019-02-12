@@ -2,8 +2,9 @@
 
 ## Top Conferences (Algorithms and Theory of Computation)
 1. [STOC: ACM Symposium on Theory of Computing](http://acm-stoc.org)
-2. [SODA: ACM SIAM Symposium on Discrete Algorithms](https://www.siam.org/conferences/CM/Main/soda19)
-3. [ISIT: IEEE International Symposium on Information Theory](https://2019.ieee-isit.org/Default.asp)
+2. [FOCS: IEEE Symposium on Foundations of Computer Science](http://ieee-focs.org)
+3. [SODA: ACM SIAM Symposium on Discrete Algorithms](https://www.siam.org/conferences/CM/Main/soda19)
+4. [ISIT: IEEE International Symposium on Information Theory](https://2019.ieee-isit.org/Default.asp)
 
 ## Top Conferences (Heuristics)
 1. [CEC: IEEE Congress on Evolutionary Computation](http://cec2019.org/)
