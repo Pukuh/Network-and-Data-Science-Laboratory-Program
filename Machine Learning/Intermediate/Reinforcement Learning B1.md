@@ -23,7 +23,7 @@ Basic knowledge of reinforcement learning.
    **_Notes_**: _Chapter 7 contains the proof that the UCB rule achieves a sublinear regret. The book in general contains many rigorous results about bandits._ 
 2. Dimitri P. Bertsekas, **Reinforcement Learning and Optimal Control**, Athena Scientific, 2019.
 3. Hunter, J K, and B Nachtergaele. **Applied Analysis**, World Scientific, 2001. 
-   **_Notes_**: _Chapter 3 contains the proof of Contraction Mapping Theorem. Which is the theoretical tool used to prove the convergence of various RL iterative algorithms_. 
+   **_Notes_**: _Chapter 3 contains the proof of the Contraction Mapping Theorem. Which is the theoretical tool used to prove the convergence of various RL iterative algorithms_. 
 
 ## Code
 1. [Python implementation of the examples in Sutton's book](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
